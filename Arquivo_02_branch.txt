@@ -1,2 +1,3 @@
 Estou iniciando o trabalho com branch
 Estou realizando uma modificação no arquivo.
+Estou realizando uma segunda modificação no arquivo
